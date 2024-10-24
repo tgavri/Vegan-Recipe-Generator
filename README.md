@@ -16,7 +16,7 @@
 ## 📸 Screenshot
 
 ![Screenshot of the application](https://i.imgur.com/mJb08P1.png)
-![Screenshot of the application](https://i.imgur.com/4zV9Qbe.png)
+![Screenshot of the application](https://i.imgur.com/fTfamfy.png)
 
 ## 🛠️ Technology
 
