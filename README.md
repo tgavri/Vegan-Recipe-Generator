@@ -15,7 +15,7 @@
 
 ## 📸 Screenshot
 
-![Screenshot of the application](https://via.placeholder.com/800x400?text=Screenshot)
+![Screenshot of the application](https://imgur.com/a/pstmBuA)
 
 ## 🛠️ Technology
 
@@ -77,7 +77,7 @@ This project is licensed under the MIT License. See [LICENSE](LICENSE) for more 
 
 ## 📞 Contact
 
-For questions or suggestions, contact [yourname](mailto:youremail@example.com).
+For questions or suggestions, contact [tgavri](mailto:tgruch@gmail.com).
 
 ---
 
